@@ -82,7 +82,7 @@ Create a file named .env in the root of your project and add your database conne
 # Replace user, password, host, port, and database name
 DATABASE_URL="postgresql://user:password@host:5432/dbname?schema=public"
 
-# Twilio Credentials (Optional for now, but good practice)
+# Twilio Credentials 
 TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TWILIO_AUTH_TOKEN=your_auth_token
 
